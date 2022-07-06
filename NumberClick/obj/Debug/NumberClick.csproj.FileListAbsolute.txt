@@ -1,0 +1,11 @@
+C:\Users\workd\Documents\project\NumberClick\NumberClick\bin\Debug\NumberClick.exe.config
+C:\Users\workd\Documents\project\NumberClick\NumberClick\bin\Debug\NumberClick.exe
+C:\Users\workd\Documents\project\NumberClick\NumberClick\bin\Debug\NumberClick.pdb
+C:\Users\workd\Documents\project\NumberClick\NumberClick\obj\Debug\NumberClick.csproj.AssemblyReference.cache
+C:\Users\workd\Documents\project\NumberClick\NumberClick\obj\Debug\NumberClick.csproj.SuggestedBindingRedirects.cache
+C:\Users\workd\Documents\project\NumberClick\NumberClick\obj\Debug\NumberClick.Form1.resources
+C:\Users\workd\Documents\project\NumberClick\NumberClick\obj\Debug\NumberClick.Properties.Resources.resources
+C:\Users\workd\Documents\project\NumberClick\NumberClick\obj\Debug\NumberClick.csproj.GenerateResource.cache
+C:\Users\workd\Documents\project\NumberClick\NumberClick\obj\Debug\NumberClick.csproj.CoreCompileInputs.cache
+C:\Users\workd\Documents\project\NumberClick\NumberClick\obj\Debug\NumberClick.exe
+C:\Users\workd\Documents\project\NumberClick\NumberClick\obj\Debug\NumberClick.pdb
